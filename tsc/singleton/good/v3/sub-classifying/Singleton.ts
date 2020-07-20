@@ -1,4 +1,4 @@
-import config from "../config";
+import config from "../../../config";
 import SingletonRegistry from "./SingletonRegistry";
 
 export default abstract class Singleton {
